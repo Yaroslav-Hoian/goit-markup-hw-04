@@ -343,9 +343,6 @@ img {
 }
 
 .team-soc-icon {
-    display: flex;
-    margin: auto auto;
-    align-items: center;
     fill: #f4f4fd;
 }
 
@@ -466,7 +463,7 @@ img {
 .footer .container {
     display: flex;
     justify-content: flex-start;
-    align-items: baseline
+    align-items: baseline;
 }
 
 .footer-soc-box {
@@ -505,9 +502,6 @@ img {
 }
 
 .footer-soc-icon {
-    display: flex;
-    margin: auto auto;
-    align-items: center;
     fill: #f4f4fd;
 }
 
